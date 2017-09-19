@@ -5,3 +5,14 @@
 .jumbotron h1{
 	color: rgb(255, 255, 255) !important;
 }
+.panel-heading{
+	background: rgb(33, 71, 132) !important;
+	color: rgb(255, 255, 255) !important;
+}
+.bottons{
+	color: #ffffff !important;
+	background: rgb(193, 198, 188) !important;
+}
+.buttons:hover{
+	background: rgb(175, 183, 168) !important;
+}
