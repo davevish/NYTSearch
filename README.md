@@ -1,5 +1,5 @@
 # NYTSearch
-NYT search activity
+API search activity
 
 # New York Times Article Search - Phase 01
 
